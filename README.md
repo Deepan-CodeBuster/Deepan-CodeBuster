@@ -117,7 +117,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepan-codebuster&theme=radical" alt="deepan-codebuster's streak stats"/>
 </p>
 
-<center>
-
-![](https://camo.githubusercontent.com/430b66e1ca06bf6d6d75ca358554cb99a8f3bf9e7150774c0af47380cf270338/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d756a616c612d32313130266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
-</center>
+ 
