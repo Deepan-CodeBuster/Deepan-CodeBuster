@@ -16,7 +16,7 @@
     <br>
     <ul>
       <li>✨ Creative Front End Developer</li>
-      <li>🚀 Interested in AI development, and cloud computing</li>
+      <li>🚀 Interested in AI development and cloud computing</li>
       <li>🌱 Currently learning AI & Web development</li>
       <li>👨‍💻 Frequently engaging in coding challenges <a href="https://www.skillrack.com/faces/resume.xhtml?id=435080&key=fc747fca1ab7cbf2163179d0ff9e8eed6158e5d9">@Skill_Rack</a> to sharpen my skills</li> </ul>
       
