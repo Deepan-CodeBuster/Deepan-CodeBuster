@@ -86,15 +86,15 @@
 ## 🌐 Follow me on:
 
 <p>
-  &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/YOUR_PROFILE">
+  &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/deepan-balu">
     <img style="margin-top:6px;" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="LinkedIn" width="27">
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Deepan-CodeBuster">
     <img src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" alt="GitHub" width="27">
   </a>
   &nbsp;
-  <a href="https://www.youtube.com/channel/YOUR_CHANNEL">
+  <a href="https://www.youtube.com/@codes_buster">
     <img src="https://cdn.pixabay.com/photo/2016/11/19/03/08/youtube-1837872_1280.png" alt="YouTube" height="26" width="37">
   </a>
 </p>
