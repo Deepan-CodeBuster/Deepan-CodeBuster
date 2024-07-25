@@ -104,8 +104,10 @@
 
 <div style="display: flex; justify-content: center;">
 <!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepan-codebuster&show_icons=true&locale=en&layout=compact&theme=radical" alt="deepan-codebuster" style="width: 400px;" /> -->
+ <center>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepan-codebuster&show_icons=true&locale=en&theme=radical" alt="deepan-codebuster" style="width: 400px;" />
-</div>
+ </center>
+ </div>
 
 
 ## 🌟 Contribution Graph:
