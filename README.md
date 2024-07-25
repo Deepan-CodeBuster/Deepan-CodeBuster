@@ -112,7 +112,7 @@
 
 ## 🌟 Contribution Graph:
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepan-codebuster&theme=radical" alt="deepan-codebuster's streak stats"/>
 </p>
 
