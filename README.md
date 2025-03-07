@@ -116,5 +116,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepan-codebuster&theme=radical" alt="deepan-codebuster's streak stats"/>
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithbalaji&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepan-codebuster&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  
