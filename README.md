@@ -1,6 +1,8 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQFYkLpLREFIEQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736496910993?e=1749686400&v=beta&t=yB9Tq6UiazeC0Ihk0oD1HZQT30IIrTCsULqtyJOPa88">
-![Profile views](https://komarev.com/ghpvc/?username=deepan-codebuster&color=blue)
-
+<p align="center"> 
+      <br> <br> 
+      <img src="https://komarev.com/ghpvc/?username=TharunBalaji2004&label=PROFILE+VIEWS&color=ff3d67" /> 
+    </p> 
 
 <h1 align="center" > Hello Developers!&nbsp;I'm Deepan 
  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/happy-robot-say-hai-5665357-4729052.gif" alt="👋🏻" width="90">
