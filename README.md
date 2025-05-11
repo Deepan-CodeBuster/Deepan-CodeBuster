@@ -1,7 +1,7 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQFYkLpLREFIEQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736496910993?e=1749686400&v=beta&t=yB9Tq6UiazeC0Ihk0oD1HZQT30IIrTCsULqtyJOPa88">
 <p align="center"> 
       <br> <br> 
-      <img src="https://komarev.com/ghpvc/?username=TharunBalaji2004&label=PROFILE+VIEWS&color=ff3d67" /> 
+      <img src="https://komarev.com/ghpvc/?username=Deepan-CodeBuster&label=PROFILE+VIEWS&color=ff3d67" /> 
     </p> 
 
 <h1 align="center" > Hello Developers!&nbsp;I'm Deepan 
