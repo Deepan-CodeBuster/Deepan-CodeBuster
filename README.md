@@ -1,8 +1,5 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQFYkLpLREFIEQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736496910993?e=1749686400&v=beta&t=yB9Tq6UiazeC0Ihk0oD1HZQT30IIrTCsULqtyJOPa88">
-<p align="center"> 
-      <br> <br> 
-      <img src="https://komarev.com/ghpvc/?username=Deepan-CodeBuster&label=PROFILE+VIEWS&color=ff3d67" /> 
-    </p> 
+
 
 <h1 align="center" > Hello Developers!&nbsp;I'm Deepan 
  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/happy-robot-say-hai-5665357-4729052.gif" alt="👋🏻" width="90">
@@ -102,3 +99,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepan-codebuster\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
 
 ---
+<p align="center"> 
+      <br> <br> 
+      <img src="https://komarev.com/ghpvc/?username=Deepan-CodeBuster&label=PROFILE+VIEWS&color=green" /> 
+    </p> 
