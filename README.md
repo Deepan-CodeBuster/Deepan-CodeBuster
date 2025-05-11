@@ -101,5 +101,5 @@
 ---
 <p align="center"> 
       <br> <br> 
-      <img src="https://komarev.com/ghpvc/?username=Deepan-CodeBuster&label=PROFILE+VIEWS&color=green" /> 
+      <img src="https://komarev.com/ghpvc/?username=Deepan-CodeBuster&label=PROFILE+VIEWS&color=blue" /> 
     </p> 
