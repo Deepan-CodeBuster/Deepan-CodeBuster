@@ -1,14 +1,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header"/>
 </p>
-<img src="https://media.licdn.com/dms/image/v2/D5616AQFYkLpLREFIEQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736496910993?e=1749686400&v=beta&t=yB9Tq6UiazeC0Ihk0oD1HZQT30IIrTCsULqtyJOPa88">
 
 
 <h1 align="center" > Hello Developers!&nbsp;I'm Deepan 
  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/happy-robot-say-hai-5665357-4729052.gif" alt="👋🏻" width="90">
 </h1>
 
-<h3 align="center">Creative Front-End Developer | UI/UX Designer | B.Tech IT Student</h3>
+<h3 align="center">Machine Learning & MERN Stack Developer | B.Tech IT Pre Final Year Student</h3>
 
  <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Profile Image" width="350" height="370">
 
