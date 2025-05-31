@@ -10,7 +10,6 @@
 <h3 align="center">Machine Learning & MERN Stack Developer | B.Tech IT Pre Final Year Student</h3>
 
 <p align="center"> 
-      <br> <br> 
       <img src="https://komarev.com/ghpvc/?username=Deepan-CodeBuster&label=PROFILE+VIEWS&color=blue" /> 
     </p> 
 
