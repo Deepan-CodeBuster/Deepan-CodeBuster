@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header"/>
+</p>
 <img src="https://media.licdn.com/dms/image/v2/D5616AQFYkLpLREFIEQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736496910993?e=1749686400&v=beta&t=yB9Tq6UiazeC0Ihk0oD1HZQT30IIrTCsULqtyJOPa88">
 
 
