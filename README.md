@@ -13,7 +13,6 @@
 
 <div>
   <div>
-    ![Blue Badge](https://img.shields.io/badge/Text-Blue-blue)
 
    <h4 style="color:green;"> 👨🏻‍💻 &nbsp;A Little Bit About Me and Things I Do</h4>
     <p>Hello everyone! I am Deepan Balu, a passionate and dedicated individual with a strong interest in technology and innovation. I enjoy building creative solutions and continuously learning new skills to grow personally and professionally.</p>
@@ -28,7 +27,7 @@
   </div>
 </div>
 
-<h3>🎓 Tools and Technologies:</h3>
+<h3>Tech Stack I Have Used and Learned:</h3>
 
 <ul>
 <li><h5>Programming Languages:</li>
