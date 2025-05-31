@@ -10,7 +10,7 @@
       <img src="https://komarev.com/ghpvc/?username=Deepan-CodeBuster&label=PROFILE+VIEWS&color=blue" /> 
     </p> 
 
-[![Watch the video](https://deepanbalu.vercel.app/assets/logo-yd2nH_Fq.png)](https://drive.google.com/file/d/1PPZydcYF6-Dm1cu-Sh8pfJsloctAnIeZ/view)
+[![Watch the video](https://mjfhghniibhwcrlsdmjk.supabase.co/storage/v1/object/public/pdfs//Self%20Introductions.png)](https://drive.google.com/file/d/1PPZydcYF6-Dm1cu-Sh8pfJsloctAnIeZ/view)
 
 
 
