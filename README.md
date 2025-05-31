@@ -10,7 +10,8 @@
       <img src="https://komarev.com/ghpvc/?username=Deepan-CodeBuster&label=PROFILE+VIEWS&color=blue" /> 
     </p> 
 
- <iframe align="right" src="https://drive.google.com/file/d/1PPZydcYF6-Dm1cu-Sh8pfJsloctAnIeZ/preview" width="350" height="370" allow="autoplay" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1PPZydcYF6-Dm1cu-Sh8pfJsloctAnIeZ/view)
+
 
 
 <div>
