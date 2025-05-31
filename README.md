@@ -1,4 +1,4 @@
-[![Watch the video](https://mjfhghniibhwcrlsdmjk.supabase.co/storage/v1/object/public/pdfs//Self%20Introductions.png)](https://drive.google.com/file/d/1PPZydcYF6-Dm1cu-Sh8pfJsloctAnIeZ/view)
+
 
 <h1 align="center" > Hello Developers!&nbsp;I'm Deepan Balu
  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/happy-robot-say-hai-5665357-4729052.gif" alt="👋🏻" width="90">
@@ -12,7 +12,7 @@
 
 
 <a href="https://drive.google.com/file/d/1PPZydcYF6-Dm1cu-Sh8pfJsloctAnIeZ/view">
-  <img src="https://mjfhghniibhwcrlsdmjk.supabase.co/storage/v1/object/public/pdfs//Self%20Introductions.png" alt="Watch the video" width="350" height="200" />
+  <img align="right" src="https://mjfhghniibhwcrlsdmjk.supabase.co/storage/v1/object/public/pdfs//Self%20Introductions.png" alt="Watch the video" width="350" height="200" />
 </a>
 
 
