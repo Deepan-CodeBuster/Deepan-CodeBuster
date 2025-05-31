@@ -34,11 +34,11 @@
 
 </ul>
 
-       <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="40" height="40"/>   
-       <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" width="45" height="44"/>   
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-       <img src="https://deepanbalu.vercel.app/assets/cpp-CdQELfdW.png" alt="c++" width="40" height="40"/>
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+       <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="50" height="50"/>   
+       <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" width="50" height="50"/>   
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
+       <img src="https://deepanbalu.vercel.app/assets/cpp-CdQELfdW.png" alt="c++" width="50" height="50"/>
+       <img src="https://deepanbalu.vercel.app/assets/sql-CFiKdOZP.png" alt="sql" width="50" height="50"/>
 
 <ul>
 <li><h5>Frontend Development:</li>
