@@ -9,6 +9,11 @@
 
 <h3 align="center">Machine Learning & MERN Stack Developer | B.Tech IT Pre Final Year Student</h3>
 
+<p align="center"> 
+      <br> <br> 
+      <img src="https://komarev.com/ghpvc/?username=Deepan-CodeBuster&label=PROFILE+VIEWS&color=blue" /> 
+    </p> 
+
  <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Profile Image" width="350" height="370">
 
 <div>
@@ -107,10 +112,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepan-codebuster\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
 
 ---
-<p align="center"> 
-      <br> <br> 
-      <img src="https://komarev.com/ghpvc/?username=Deepan-CodeBuster&label=PROFILE+VIEWS&color=blue" /> 
-    </p> 
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
