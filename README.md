@@ -36,8 +36,8 @@
 
        <img src="https://deepanbalu.vercel.app/assets/python-BI4BZNZc.png" alt="python" width="50" height="50"/>   
        <img src="https://deepanbalu.vercel.app/assets/java-DKncuXG7.png" alt="java" width="50" height="50"/>   
-       <img src="https://deepanbalu.vercel.app/assets/c-BnXhaQZV.png" alt="c" width="50" height="50"/>
-       <img src="https://deepanbalu.vercel.app/assets/cpp-CdQELfdW.png" alt="c++" width="50" height="50"/>
+       <img src="https://deepanbalu.vercel.app/assets/c-BnXhaQZV.png" alt="c" width="50" height="50"/>&nbsp;
+       <img src="https://deepanbalu.vercel.app/assets/cpp-CdQELfdW.png" alt="c++" width="50" height="50"/>&nbsp;
        <img src="https://deepanbalu.vercel.app/assets/sql-CFiKdOZP.png" alt="sql" width="50" height="50"/>
 
 <ul>
