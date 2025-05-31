@@ -12,7 +12,7 @@
 
 
 <a href="https://drive.google.com/file/d/1PPZydcYF6-Dm1cu-Sh8pfJsloctAnIeZ/view">
-  <img src="https://mjfhghniibhwcrlsdmjk.supabase.co/storage/v1/object/public/pdfs//Self%20Introductions.png" alt="Watch the video" width="350" height="300" />
+  <img src="https://mjfhghniibhwcrlsdmjk.supabase.co/storage/v1/object/public/pdfs//Self%20Introductions.png" alt="Watch the video" width="350" height="200" />
 </a>
 
 
