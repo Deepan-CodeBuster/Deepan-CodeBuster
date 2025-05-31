@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center" > Hello Developers!&nbsp;I'm Deepan 
+<h1 align="center" > Hello Developers!&nbsp;I'm Deepan Balu
  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/happy-robot-say-hai-5665357-4729052.gif" alt="👋🏻" width="90">
 </h1>
 
