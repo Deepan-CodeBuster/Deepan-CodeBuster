@@ -41,8 +41,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepan-balu/)
 [![Mail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:deepanbalud@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://deepanbalu.vercel.app/)
 [![X](https://img.shields.io/badge/-X-black?style=flat-square&logo=x&logoColor=white)](https://x.com/deepanbalud)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://deepanbalu.vercel.app/)
+
 
 
 
