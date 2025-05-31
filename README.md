@@ -13,7 +13,8 @@
 
 <div>
   <div>
-    <p style="color:blue;">I am blue</p>
+    ![Blue Badge](https://img.shields.io/badge/Text-Blue-blue)
+
    <h4 style="color:green;"> 👨🏻‍💻 &nbsp;A Little Bit About Me and Things I Do</h4>
     <p>Hello everyone! I am Deepan Balu, a passionate and dedicated individual with a strong interest in technology and innovation. I enjoy building creative solutions and continuously learning new skills to grow personally and professionally.</p>
     <h5>Things I Do ?</h5>
