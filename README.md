@@ -13,7 +13,8 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-   &nbsp; <b style="font-size:20px;">👨‍💻 About Me:</b>
+   &nbsp; <b style="font-size:20px;">Who am I ?</b>
+    <p>Hello everyone! I am Deepan Balu, a passionate and dedicated individual with a strong interest in technology and innovation. I enjoy building creative solutions and continuously learning new skills to grow personally and professionally.</p>
     <br>
     <br>
     <ul>
