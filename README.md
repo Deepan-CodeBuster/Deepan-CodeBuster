@@ -11,8 +11,8 @@
 
  <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Profile Image" width="350" height="370">
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+<div>
+  <div>
    &nbsp; <b style="font-size:20px;">Who am I ?</b>
     <p>Hello everyone! I am Deepan Balu, a passionate and dedicated individual with a strong interest in technology and innovation. I enjoy building creative solutions and continuously learning new skills to grow personally and professionally.</p>
     <br>
