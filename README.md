@@ -17,11 +17,13 @@
     <p>Hello everyone! I am Deepan Balu, a passionate and dedicated individual with a strong interest in technology and innovation. I enjoy building creative solutions and continuously learning new skills to grow personally and professionally.</p>
     <br>
     <br>
+    <h3>Things I Do ?</h3>
     <ul>
-      <li>✨ Creative Front End Developer</li>
-      <li>🚀 Interested in AI development and cloud computing</li>
-      <li>🌱 Currently learning AI & Web development</li>
-      <li>👨‍💻 Frequently engaging in coding challenges <a href="https://www.skillrack.com/faces/resume.xhtml?id=435080&key=fc747fca1ab7cbf2163179d0ff9e8eed6158e5d9">@Skill_Rack</a> to sharpen my skills</li> </ul>
+      <li>Full-Stack Development</li>
+      <li>Machine Learning</li>
+      <li>Project Management</li>
+      <li>Problem Solving</li>
+      <li>Frequently engaging in coding challenges <a href="https://www.skillrack.com/faces/resume.xhtml?id=435080&key=fc747fca1ab7cbf2163179d0ff9e8eed6158e5d9">@Skill_Rack</a> to sharpen my skills</li> </ul>
 
   </div>
 </div>
