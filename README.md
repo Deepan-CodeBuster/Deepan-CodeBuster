@@ -46,26 +46,12 @@
 
 
 
-<center>
-## 📈 Github Stats :
 
-<div style="display: flex; justify-content: center;">
-<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepan-codebuster&show_icons=true&locale=en&layout=compact&theme=radical" alt="deepan-codebuster" style="width: 400px;" /> -->
- <center>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepan-codebuster&show_icons=true&locale=en&theme=radical" alt="deepan-codebuster" style="width: 400px;" />
- </center>
- </div>
-
-## 🌟 Contribution Graph:
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepan-codebuster&theme=radical" alt="deepan-codebuster's streak stats"/>
-</p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepan-codebuster\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
 
 ---
-</center>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
