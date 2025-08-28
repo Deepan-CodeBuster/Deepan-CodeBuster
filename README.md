@@ -24,6 +24,11 @@
 
    <h3 style="color:green;"> 👨🏻‍💻 &nbsp;A Little Bit About Me </h3>
     <p>Hello everyone! I am Deepan Balu, a passionate and dedicated individual with a strong interest in technology and innovation. I enjoy building creative solutions and continuously learning new skills to grow personally and professionally.</p>
+    <h3> Total Repositories : 59 </h3>
+    <ul>
+     <li>Public Repositories : 28</li>
+     <li>Private Repositories : 31</li>
+    </ul>
     <h3>Things I Do ?</h3>
     <ul>
       <li>Full-Stack Development</li>
