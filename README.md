@@ -11,9 +11,14 @@
     </p> 
 
 
-<a href="https://drive.google.com/file/d/1Si6nM2GOgQWdjux4nI5e-Cqj5TD-H5jx/view">
-  <img align="right" src="https://mjfhghniibhwcrlsdmjk.supabase.co/storage/v1/object/public/pdfs//Self%20Introductions.png" alt="Watch the video" width="350" height="200" />
-</a>
+<iframe 
+  src="https://drive.google.com/file/d/1Si6nM2GOgQWdjux4nI5e-Cqj5TD-H5jx/preview" 
+  width="350" 
+  height="200" 
+  allow="autoplay"
+  style="float: right; border: none;">
+</iframe>
+
 <h3 align="below">Click the Image to know me</h3> 
 
 
