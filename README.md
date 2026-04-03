@@ -9,7 +9,7 @@
 <p align="center"> 
       <img src="https://komarev.com/ghpvc/?username=Deepan-CodeBuster&label=PROFILE+VIEWS&color=blue" /> 
     </p> 
-<a href="https://drive.google.com/file/d/1Si6nM2GOgQWdjux4nI5e-Cqj5TD-H5jx/view"> <img align="right" src="https://mjfhghniibhwcrlsdmjk.supabase.co/storage/v1/object/public/pdfs//Self%20Introductions.png" alt="Watch the video" width="350" height="200" /> </a>
+<a href="https://drive.google.com/file/d/1Si6nM2GOgQWdjux4nI5e-Cqj5TD-H5jx/view"> <img align="right" src="https://res.cloudinary.com/dttgust0n/image/upload/v1775215463/Self_Introductions_1_zy5c4f.png" alt="Watch the video" width="350" height="200" /> </a>
 <h3 align="below">Click the Image to know me</h3> 
 
 
